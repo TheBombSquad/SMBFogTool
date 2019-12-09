@@ -1,0 +1,1 @@
+Thanks to CraftedCart for their documentation of the SMB2 stagedef format.
